@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    transition: all;
+
+}
+
+
+
+.one{
+background-image: url(elvin123.jpg);
+text-align: center; 
+ padding: 15rem  5rem;
+
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+
+ 
+
+}
+.one h1{
+    color: antiquewhite;
+    
+}
+.one a{
+    display: inline-block;
+    margin: 6px;
+    border-radius: 10px;
+    background-color: red;
+    padding: 6px;
+    text-decoration:none;
+    font-size: bold;
+    color: beige;
+}
+.two{
+
+background-image: url(elvin1234.jpg);
+ text-align: center; 
+ padding: 15rem  5rem;
+
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+
+}
+
+.two h1{
+    color: aliceblue;
+}
+
+.two p{
+    color: antiquewhite;
+}
+
+.two a{
+    display: inline-block;
+    margin: 6px;
+    border-radius: 10px;
+    background-color: red;
+    padding: 6px;
+    text-decoration:none;
+    font-size: bold;
+    color: beige;
+
+
+
+
+}
+.theere{
+
+background-image: url(elvin14.jpg);
+ text-align: center; 
+ padding: 15rem  5rem;
+ 
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+
+
+}
+.theere a{
+    display: inline-block;
+    margin: 6px;
+    border-radius: 10px;
+    background-color: red;
+    padding: 6px;
+    text-decoration:none;
+    font-size: bold;
+    color: beige;
+
+
+
+}
